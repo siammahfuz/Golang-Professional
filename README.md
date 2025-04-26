@@ -1,6 +1,6 @@
 Golang Professional
 Overview
-A professional, efficient, and scalable Golang project designed to [briefly describe the purpose of your project, e.g., "manage API requests," "handle user authentication," "process large datasets," etc.].
+A professional, efficient, and scalable Golang project designed to create Software.
 
 Built with clean architecture principles, concurrency best practices, and a focus on performance.
 
