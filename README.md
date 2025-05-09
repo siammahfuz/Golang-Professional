@@ -35,7 +35,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone (https://github.com/siammahfuz/Golang-Professional/edit/main/README.md)
+git clone https://github.com/siammahfuz/Golang-Professiona 
 cd projectname
 
 # Install dependencies
